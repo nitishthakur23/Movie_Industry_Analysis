@@ -61,11 +61,10 @@ The notebook includes the following analyses:
 
    ```bash
    pip install -r requirements.txt
+   
 Run the Notebook:
 Open the Jupyter notebook using Jupyter Notebook or JupyterLab:
-
-bash
-Copy code
 jupyter notebook Movie_Industry_Analysis.ipynb
+
 Explore the Analysis:
 Review the analysis, visualizations, and insights provided in the notebook. Feel free to modify or extend the analysis as needed.
